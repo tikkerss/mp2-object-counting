@@ -9,9 +9,9 @@
 
 # 1. Identitas Project
 
-**Target Objek :** Mobil pada area parkir (Aerial View)
+**Target Objek :** Mobil pada area parkir
 
-**Jumlah Mobil Terdeteksi :** 27 Mobil
+**Jumlah Mobil Terdeteksi :** 27 Mobil (belum akurat)
 
 **Library yang Digunakan :**
 - OpenCV (cv2)
